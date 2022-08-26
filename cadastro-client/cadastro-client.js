@@ -1,0 +1,1 @@
+console.log('castro de client implementado!')
